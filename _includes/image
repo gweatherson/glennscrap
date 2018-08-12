@@ -1,0 +1,6 @@
+{% capture largeImagePath %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ include.large-name }}{% endcapture %}
+{% capture smallImagePath %}{{ page.date | date: "%Y-%m-%d" }}-{{ page.title | slugify }}/{{ include.small-name }}{% endcapture %}
+<picture>
+	<source media="(min-width: 1024px)" srcset="/assets/posts/{{ largeImagePath }}">
+	<img src="/assets/posts/{{ smallImagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
+</picture>

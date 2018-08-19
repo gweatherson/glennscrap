@@ -83,9 +83,7 @@ gulp.task('images', function() {
                  }
              },
             {
-              quality: 70,
-              progressive: true,
-              compressionLevel: 6,
+              quality: 80,
               withMetadata: true,
               errorOnUnusedConfig: false,
             }

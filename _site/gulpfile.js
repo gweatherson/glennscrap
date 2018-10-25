@@ -86,6 +86,9 @@ gulp.task('images', function() {
               quality: 80,
               withMetadata: true,
               errorOnUnusedConfig: false,
+              withoutEnlargement: true,
+              skipOnEnlargement: false, // that option copy original file with/without renaming
+              errorOnEnlargement: false
             }
 ]
 

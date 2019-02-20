@@ -6,15 +6,10 @@ var cp          = require('child_process');
 var responsive  = require('gulp-responsive');
 var $           = require('gulp-load-plugins')();
 var newer       = require('gulp-newer');
-
-
-
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
-
-
 
 /**
  * Build the Jekyll Site
@@ -66,35 +61,32 @@ gulp.task('watch', function () {
     gulp.watch(['_sass/*.scss', '_sass/**/*.scss', '*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
-
 gulp.task('images', function() {
-     return gulp.src('assets/posts/*/*.jpg')
-         .pipe(newer('assets/posts/*/*.jpg'))
-         .pipe(responsive({
-             '**/*.*': [{
-                 width: 1600,
-                 rename: {
-                     suffix: '-large'
-                 }
-             }, {
-                 width: 1024,
-                 rename: {
-                     suffix: '-small'
-                 }
-             },
-            {
-              quality: 80,
-              withMetadata: true,
-              errorOnUnusedConfig: false,
-              withoutEnlargement: true,
-              skipOnEnlargement: false, // that option copy original file with/without renaming
-              errorOnEnlargement: false
-            }
-]
-
-         }))
-         .pipe(gulp.dest('assets/posts/.'));
- });
-
+  return gulp.src('assets/posts/*/*.jpg')
+    .pipe(newer('assets/posts/*/*.jpg'))
+    .pipe(responsive({
+      '**/*.*': [{
+        width: 1600,
+        rename: {
+          suffix: '-large'
+        }
+        }, {
+          width: 1024,
+          rename: {
+            suffix: '-small'
+          }
+        },
+        {
+          quality: 80,
+          withMetadata: true,
+          errorOnUnusedConfig: false,
+          withoutEnlargement: true,
+          skipOnEnlargement: false,
+          errorOnEnlargement: false
+        }
+      ]
+    }))
+  .pipe(gulp.dest('assets/posts/.'));
+});
 
 gulp.task('default', ['browser-sync', 'sass', 'watch']);

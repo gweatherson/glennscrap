@@ -63,7 +63,6 @@ gulp.task('watch', function () {
 
 gulp.task('images', function() {
   return gulp.src('assets/posts/*/*.jpg')
-    .pipe(newer('assets/posts/*/*.jpg'))
     .pipe(responsive({
       '**/*.*': [{
         width: 1600,
@@ -86,7 +85,7 @@ gulp.task('images', function() {
         }
       ]
     }))
-  .pipe(gulp.dest('assets/posts/.'));
+  .pipe(gulp.dest('assets/posts/edited/.'));
 });
 
 gulp.task('default', ['browser-sync', 'sass', 'watch']);

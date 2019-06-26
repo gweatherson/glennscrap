@@ -1,422 +1,520 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-19T18:36:40-08:00</updated><id>http://localhost:4000/</id><title type="html">glennscrap</title><subtitle></subtitle><entry><title type="html">Winter Dump</title><link href="http://localhost:4000/2019/02/19/winter-dump/" rel="alternate" type="text/html" title="Winter Dump" /><published>2019-02-19T08:00:00-08:00</published><updated>2019-02-19T08:00:00-08:00</updated><id>http://localhost:4000/2019/02/19/winter-dump</id><content type="html" xml:base="http://localhost:4000/2019/02/19/winter-dump/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/01-small.jpg&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-06-25T22:41:02-07:00</updated><id>/</id><title type="html">glennscrap</title><subtitle></subtitle><entry><title type="html">Spring Dump</title><link href="/2019/06/25/spring-dump/" rel="alternate" type="text/html" title="Spring Dump" /><published>2019-06-25T09:00:00-07:00</published><updated>2019-06-25T09:00:00-07:00</updated><id>/2019/06/25/spring-dump</id><content type="html" xml:base="/2019/06/25/spring-dump/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/09-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/09-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/10-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/10-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/10-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/10-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/11-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/11-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/11-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/11-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/12-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/12-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/12-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/12-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2019-02-19-winter-dump/13-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2019-02-19-winter-dump/13-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Maui</title><link href="http://localhost:4000/2018/10/24/maui/" rel="alternate" type="text/html" title="Maui" /><published>2018-10-24T09:00:00-07:00</published><updated>2018-10-24T09:00:00-07:00</updated><id>http://localhost:4000/2018/10/24/maui</id><content type="html" xml:base="http://localhost:4000/2018/10/24/maui/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/13-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/13-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/14-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/14-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/15-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/15-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/16-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/16-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/17-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/17-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/18-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/18-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/19-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/19-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-06-25-spring-dump/20-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-06-25-spring-dump/20-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Winter Dump</title><link href="/2019/02/19/winter-dump/" rel="alternate" type="text/html" title="Winter Dump" /><published>2019-02-19T08:00:00-08:00</published><updated>2019-02-19T08:00:00-08:00</updated><id>/2019/02/19/winter-dump</id><content type="html" xml:base="/2019/02/19/winter-dump/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/09-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/10-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/10-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-maui/11-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-maui/11-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Dumping</title><link href="http://localhost:4000/2018/10/24/dumping/" rel="alternate" type="text/html" title="Dumping" /><published>2018-10-24T09:00:00-07:00</published><updated>2018-10-24T09:00:00-07:00</updated><id>http://localhost:4000/2018/10/24/dumping</id><content type="html" xml:base="http://localhost:4000/2018/10/24/dumping/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-dumping/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-dumping/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-dumping/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-dumping/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-dumping/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-dumping/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-dumping/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-dumping/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-10-24-dumping/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-10-24-dumping/05-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Waterworld</title><link href="http://localhost:4000/2018/09/03/waterworld/" rel="alternate" type="text/html" title="Waterworld" /><published>2018-09-03T09:00:00-07:00</published><updated>2018-09-03T09:00:00-07:00</updated><id>http://localhost:4000/2018/09/03/waterworld</id><content type="html" xml:base="http://localhost:4000/2018/09/03/waterworld/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/09-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/10-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/10-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/11-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/11-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/12-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/12-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2019-02-19-winter-dump/13-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2019-02-19-winter-dump/13-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Maui</title><link href="/2018/10/24/maui/" rel="alternate" type="text/html" title="Maui" /><published>2018-10-24T09:00:00-07:00</published><updated>2018-10-24T09:00:00-07:00</updated><id>/2018/10/24/maui</id><content type="html" xml:base="/2018/10/24/maui/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/09-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/10-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/10-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/11-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/11-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/12-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/12-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/13-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/13-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/14-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/14-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/09-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/15-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/15-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/10-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/10-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/16-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/16-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-maui/11-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-maui/11-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Dumping</title><link href="/2018/10/24/dumping/" rel="alternate" type="text/html" title="Dumping" /><published>2018-10-24T09:00:00-07:00</published><updated>2018-10-24T09:00:00-07:00</updated><id>/2018/10/24/dumping</id><content type="html" xml:base="/2018/10/24/dumping/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-dumping/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-dumping/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/17-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/17-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-dumping/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-dumping/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/18-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/18-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-dumping/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-dumping/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/19-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/19-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-dumping/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-dumping/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-09-03-waterworld/20-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-09-03-waterworld/20-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Morgan &amp;amp; Friends</title><link href="http://localhost:4000/2018/08/19/morgan-and-friends/" rel="alternate" type="text/html" title="Morgan &amp; Friends" /><published>2018-08-19T09:00:00-07:00</published><updated>2018-08-19T09:00:00-07:00</updated><id>http://localhost:4000/2018/08/19/morgan-and-friends</id><content type="html" xml:base="http://localhost:4000/2018/08/19/morgan-and-friends/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-10-24-dumping/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-10-24-dumping/05-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Waterworld</title><link href="/2018/09/03/waterworld/" rel="alternate" type="text/html" title="Waterworld" /><published>2018-09-03T09:00:00-07:00</published><updated>2018-09-03T09:00:00-07:00</updated><id>/2018/09/03/waterworld</id><content type="html" xml:base="/2018/09/03/waterworld/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-19-morgan-friends/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-19-morgan-friends/09-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Photodump</title><link href="http://localhost:4000/2018/08/11/photodump/" rel="alternate" type="text/html" title="Photodump" /><published>2018-08-11T09:00:00-07:00</published><updated>2018-08-11T09:00:00-07:00</updated><id>http://localhost:4000/2018/08/11/photodump</id><content type="html" xml:base="http://localhost:4000/2018/08/11/photodump/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/09-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/10-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/10-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/11-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/11-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/12-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/12-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/13-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/13-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/14-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/14-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/15-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/15-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/16-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/16-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-11-photodump/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-11-photodump/09-small.jpg&quot; /&gt;
-&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Oakridge</title><link href="http://localhost:4000/2018/08/03/oakridge/" rel="alternate" type="text/html" title="Oakridge" /><published>2018-08-03T12:41:15-07:00</published><updated>2018-08-03T12:41:15-07:00</updated><id>http://localhost:4000/2018/08/03/oakridge</id><content type="html" xml:base="http://localhost:4000/2018/08/03/oakridge/">&lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/01-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/01-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/17-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/17-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/02-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/02-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/18-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/18-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/03-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/03-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/19-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/19-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/04-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/04-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-09-03-waterworld/20-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-09-03-waterworld/20-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Morgan &amp;amp; Friends</title><link href="/2018/08/19/morgan-and-friends/" rel="alternate" type="text/html" title="Morgan &amp; Friends" /><published>2018-08-19T09:00:00-07:00</published><updated>2018-08-19T09:00:00-07:00</updated><id>/2018/08/19/morgan-and-friends</id><content type="html" xml:base="/2018/08/19/morgan-and-friends/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/05-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/05-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/06-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/06-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/07-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/07-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/08-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/08-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/09-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/09-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/10-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/10-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/11-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/11-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/12-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/12-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-19-morgan-friends/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-19-morgan-friends/09-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Photodump</title><link href="/2018/08/11/photodump/" rel="alternate" type="text/html" title="Photodump" /><published>2018-08-11T09:00:00-07:00</published><updated>2018-08-11T09:00:00-07:00</updated><id>/2018/08/11/photodump</id><content type="html" xml:base="/2018/08/11/photodump/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/01-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/13-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/13-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/02-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/14-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/14-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/03-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/15-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/15-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/04-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/16-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/16-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/05-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/17-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/17-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/06-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/18-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/18-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/07-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/19-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/19-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/08-small.jpg&quot; /&gt;
 &lt;/picture&gt;
 
 &lt;picture&gt;
-	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/2018-08-03-oakridge/20-large.jpg&quot; /&gt;
-	&lt;img src=&quot;/assets/posts/2018-08-03-oakridge/20-small.jpg&quot; /&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-11-photodump/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-11-photodump/09-small.jpg&quot; /&gt;
+&lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Oakridge</title><link href="/2018/08/03/oakridge/" rel="alternate" type="text/html" title="Oakridge" /><published>2018-08-03T12:41:15-07:00</published><updated>2018-08-03T12:41:15-07:00</updated><id>/2018/08/03/oakridge</id><content type="html" xml:base="/2018/08/03/oakridge/">&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/01-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/01-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/02-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/02-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/03-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/03-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/04-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/04-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/05-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/05-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/06-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/06-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/07-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/07-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/08-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/08-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/09-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/09-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/10-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/10-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/11-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/11-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/12-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/12-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/13-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/13-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/14-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/14-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/15-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/15-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/16-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/16-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/17-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/17-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/18-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/18-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/19-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/19-small.jpg&quot; /&gt;
+&lt;/picture&gt;
+
+&lt;picture&gt;
+	&lt;source media=&quot;(min-width: 1024px)&quot; srcset=&quot;/assets/posts/edited/2018-08-03-oakridge/20-large.jpg&quot; /&gt;
+	&lt;img src=&quot;/assets/posts/edited/2018-08-03-oakridge/20-small.jpg&quot; /&gt;
 &lt;/picture&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

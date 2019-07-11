@@ -16,11 +16,3 @@ date:   2019-7-11 9:00:00 -0700
 {% include image large-name="10-large.jpg" small-name="10-small.jpg" %}
 {% include image large-name="11-large.jpg" small-name="11-small.jpg" %}
 {% include image large-name="12-large.jpg" small-name="12-small.jpg" %}
-{% include image large-name="13-large.jpg" small-name="13-small.jpg" %}
-{% include image large-name="14-large.jpg" small-name="14-small.jpg" %}
-{% include image large-name="15-large.jpg" small-name="15-small.jpg" %}
-{% include image large-name="16-large.jpg" small-name="16-small.jpg" %}
-{% include image large-name="17-large.jpg" small-name="17-small.jpg" %}
-{% include image large-name="18-large.jpg" small-name="18-small.jpg" %}
-{% include image large-name="19-large.jpg" small-name="19-small.jpg" %}
-{% include image large-name="20-large.jpg" small-name="20-small.jpg" %}

@@ -9,7 +9,7 @@ layout: default
 {{ content }}
 
 {%- if site.posts.size > 0 -%}
-  <h2 class="post__list-heading">{{ page.list_title | default: "crapsets" }}</h2>
+  <h2 class="post__list-heading">{{ page.list_title | default: "" }}</h2>
   <ul class="post__list">
     {%- for post in site.posts -%}
     <li>

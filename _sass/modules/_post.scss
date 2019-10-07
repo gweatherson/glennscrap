@@ -1,19 +1,11 @@
 .post {
 
-	&__list-heading {
-
-	}
-
-	&__list {
-		margin-left: 16px;
-	}
-
-	&__link {
-
+	&__list-item {
+		padding: .5rem 0;
 	}
 
 	&__meta {
-		font-size: 12px;
+		font-size: .8rem;
 	}
 
 }

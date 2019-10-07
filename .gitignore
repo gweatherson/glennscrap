@@ -1,5 +1,5 @@
 .sass-cache
 .jekyll-metadata
-note_modules
+node_modules/
 .DS_Store
 .htaccess

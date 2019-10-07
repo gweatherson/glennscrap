@@ -5,7 +5,6 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -20,7 +19,6 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
-
 
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
